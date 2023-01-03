@@ -1,0 +1,11 @@
+.NewPost-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.form-control {
+    width: 400px;
+}
+
